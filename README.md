@@ -69,17 +69,17 @@ Contributions are always welcome
 
 - Got improvements? Submit a pull request.
 
-Together, we can make **Skip The Drama** even better! 💪
+Together, we can make **Skip The Drama** even better!
 
 ---
 
 ## License
 
-This project is licensed under the **UNLICENSED** license.
+This project is licensed under the **MIT** license.
 
 ---
 
 ## Disclaimer
 
-This bot is for **entertainment purposes only**. Use it responsibly and **don't skip too much drama**! 😉
+This bot is for **entertainment purposes only**. Use it responsibly and **don't skip too much drama**!
 
