@@ -1,4 +1,4 @@
-# Skip TheDrama
+# Skip The Drama
 
 Welcome to **Skip The Drama**!
 
